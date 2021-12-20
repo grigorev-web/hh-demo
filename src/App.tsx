@@ -7,7 +7,7 @@ import "./App.css";
 function App() {
   return (
     <div className="App">
-      <header className="App-header name-class">
+      <header className="App-header name-clas">
         <Counter />
         
       </header>
